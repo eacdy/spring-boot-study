@@ -109,7 +109,7 @@ public class MailController {
         MimeMessageHelper messageHelper = new MimeMessageHelper(message, true);
         messageHelper.setFrom(this.mailProperties.getUsername());
         messageHelper.setTo("511932633@qq.com");
-        messageHelper.setSubject("内嵌附件的邮件测试");
+        messageHelper.setSubject("内联附件的邮件测试");
         // 第二个参数表示是否html，设为true
         messageHelper.setText("<h1>HTML内容..<img src=\"cid:attach\"/></h1>", true);
         messageHelper.addInline("attach", new ClassPathResource("wx.jpg"));
