@@ -11,7 +11,7 @@
     <groupId>com.itmuch</groupId>
     <artifactId>spring-boot-banner</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Spring Boot Banner自定义Banner</name>
+    <name>spring-boot-banner</name>
     <description>Spring Boot自定义Banner</description>
 
     <properties>
