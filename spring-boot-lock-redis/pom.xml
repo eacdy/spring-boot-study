@@ -11,7 +11,7 @@
   <groupId>com.itmuch</groupId>
   <artifactId>spring-boot-lock-redis</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>spring-boot-lock</name>
+  <name>spring-boot-lock-redis</name>
   <description>基于Redis的分布式锁演示</description>
 
   <properties>
