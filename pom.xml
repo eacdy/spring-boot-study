@@ -11,6 +11,6 @@
   <modules>
     <module>spring-boot-banner</module>
     <module>spring-boot-mail</module>
-    <module>spring-boot-lock</module>
+    <module>spring-boot-lock-redis</module>
   </modules>
 </project>

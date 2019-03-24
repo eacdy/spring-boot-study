@@ -9,10 +9,10 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.itmuch</groupId>
-  <artifactId>spring-boot-lock</artifactId>
+  <artifactId>spring-boot-lock-redis</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>spring-boot-lock</name>
-  <description>分布锁演示</description>
+  <description>基于Redis的分布式锁演示</description>
 
   <properties>
     <java.version>1.8</java.version>
