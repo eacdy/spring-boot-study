@@ -12,5 +12,6 @@
     <module>spring-boot-banner</module>
     <module>spring-boot-mail</module>
     <module>spring-boot-lock-redis</module>
+    <module>spring-boot-logging-change-logging-level</module>
   </modules>
 </project>
