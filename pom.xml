@@ -13,5 +13,6 @@
     <module>spring-boot-mail</module>
     <module>spring-boot-lock-redis</module>
     <module>spring-boot-logging-change-logging-level</module>
+    <module>spring-boot-mybatis-optional</module>
   </modules>
 </project>
