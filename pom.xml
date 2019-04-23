@@ -14,5 +14,6 @@
     <module>spring-boot-lock-redis</module>
     <module>spring-boot-logging-change-logging-level</module>
     <module>spring-boot-mybatis-optional</module>
+    <module>spring-boot-actuator-prometheus-grafana</module>
   </modules>
 </project>
