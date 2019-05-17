@@ -15,5 +15,6 @@
     <module>spring-boot-logging-change-logging-level</module>
     <module>spring-boot-mybatis-optional</module>
     <module>spring-boot-actuator-prometheus-grafana</module>
+    <module>spring-boot-dubbo-nacos</module>
   </modules>
 </project>

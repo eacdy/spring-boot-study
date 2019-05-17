@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: provider-sample
+dubbo:
+  scan:
+    base-packages: com.itmuch.dubbo.service
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    address: nacos://${nacos.host}:${nacos.port}
+demo:
+  service:
+    version: 1.0.0
+nacos:
+  host: 127.0.0.1
+  port: 8848
